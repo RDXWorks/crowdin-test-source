@@ -1,7 +1,7 @@
 {
     "app_name": "Babylon Wallet",
     "add_account": "Create New Account",
-    "guarantees": "Add Guarantees",
+    "guarantees": "Add Wallet Guarantees",
     "fees": "Radix Network Fees",
     "nft": "NFT"
-  }
+}
