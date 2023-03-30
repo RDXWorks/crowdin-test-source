@@ -2,5 +2,6 @@
     "persona_settings": "Persona Settings",
     "dApp_settings": "dApp Settings",
     "link_settings": "Link Settings",
-    "security_settings": "Security Settings"
+    "security_settings": "Security Settings",
+    "gateway_settings": "Gateway Settings"
   }
