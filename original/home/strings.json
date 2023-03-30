@@ -3,5 +3,6 @@
     "add_account": "Create New Account",
     "guarantees": "Add Guarantees",
     "fees": "Radix Network Fees",
-    "nft": "Radix NFT"
+    "nft": "Radix NFT",
+    "dApp": "dApp conf"
 }
