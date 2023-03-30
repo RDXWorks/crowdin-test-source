@@ -3,5 +3,6 @@
     "dApp_settings": "dApp Settings",
     "link_settings": "Link Settings",
     "security_settings": "Security Settings",
-    "gateway_settings": "Gateway Settings"
+    "gateway_settings": "Gateway Settings",
+    "dev_settings": "Dev Settings"
   }
