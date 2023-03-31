@@ -1,6 +1,8 @@
 {
-    "persona_settings": "Persona Settings",
-    "dApp_settings": "dApp Settings",
-    "link_settings": "Link Settings",
-    "security_settings": "Security Settings"
+    "app_name": "Babylon Wallet",
+    "add_account": "Create New Account",
+    "guarantees": "Add Guarantees",
+    "fees": "Radix Network Fees",
+    "nft": "Radix NFT (Non Fungible Tokens)",
+    "dApp": "dApp configuration"
 }
