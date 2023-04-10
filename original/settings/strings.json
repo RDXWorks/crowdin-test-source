@@ -5,5 +5,6 @@
     "security_settings": "Security Settings",
     "gateway_settings": "Radix Gateway Settings RCnet",
     "dev_settings": "Dev Settings",
-    "dApp_completion": "Request from %s complete"
+    "dApp_completion": "Request from %s complete",
+     "dApp_completion2": "Request from %s complete222"
 }
