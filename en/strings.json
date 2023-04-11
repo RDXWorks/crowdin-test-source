@@ -1,8 +1,11 @@
 {
-    "app_name": "Babylon Wallet",
-    "add_account": "Create New Account",
-    "guarantees": "Add Guarantees",
-    "fees": "Radix Network Fees",
-    "nft": "Radix NFT (Non Fungible Tokens)",
-    "dApp": "dApp configuration"
+    "persona_settings": "Persona Settings",
+    "dApp_settings": "dApp Settings",
+    "link_settings": "Link Settings",
+    "security_settings": "Security Settings",
+    "gateway_settings": "Radix Gateway Settings RCnet",
+    "dev_settings": "Dev Settings",
+    "dApp_completion": "Request from %s complete",
+    "dApp_completion2": "Request from %s complete222",
+    "New settings key": "New settings"
 }
