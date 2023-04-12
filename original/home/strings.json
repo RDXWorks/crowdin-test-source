@@ -1,5 +1,9 @@
 {
-	"home_title": "Radix Wallet",
-	"home_subtitle": "Welcome, here are all your accounts on the Radix Network",
-	"home_createNewAccountButtonTitle": "Create a New Account"
+    "app_name": "Babylon Wallet",
+    "add_account": "Create New Account",
+    "guarantees": "Add Guarantees",
+    "fees": "Network Fees",
+    "nft": "Radix Something NFT (Non Fungible Tokens)",
+    "dApp": "dApp configuration",
+    "some_id": "Something"
 }
