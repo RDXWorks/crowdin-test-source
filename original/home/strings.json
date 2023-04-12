@@ -4,5 +4,6 @@
     "guarantees": "Add Guarantees",
     "fees": "Network Fees",
     "nft": "Radix NFT (Non Fungible Tokens)",
-    "dApp": "dApp configuration"
+    "dApp": "dApp configuration",
+    "some_id": "Something"
 }
