@@ -1,10 +1,5 @@
 {
-    "persona_settings": "Persona Settings",
-    "dApp_settings": "dApp Settings",
-    "link_settings": "Link Settings",
-    "security_settings": "Security Settings",
-    "gateway_settings": "Radix Gateway Settings RCnet",
-    "dev_settings": "Dev Settings",
-    "dApp_completion": "Request from %s complete",
-    "dApp_completion2": "Request from %s complete222"
+	"home_title": "Radix Wallet",
+	"home_subtitle": "Welcome, here are all your accounts on the Radix Network",
+	"home_createNewAccountButtonTitle": "Create a New Account"
 }
